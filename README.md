@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game design
 - 🌱 I’m currently learning in School
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me unknown
+- 📫 How to reach me is currently unknown
 
 <!---
 Gamer193/Gamer193 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
